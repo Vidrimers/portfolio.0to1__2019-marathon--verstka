@@ -32,21 +32,20 @@ npm-debug.log
 #gitignore
 /.gitignore
 
-temp - Copy
+
 /temp - Copy
-temp
+
 /temp
-temp/
-Temp/
-Temp
-!temp
-!temp/
-\!temp
-/!temp
-!Temp
-\!Temp
+
+# Temp
+# !temp
+# !temp/
+# \!temp
+# /!temp
+# !Temp
+# \!Temp
 /!Temp
 package-lock.json
 .gitattributes
-\.gitattributes
+# \.gitattributes
 /.gitattributes
